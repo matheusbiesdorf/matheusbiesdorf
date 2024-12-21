@@ -1,17 +1,16 @@
 # matheusbiesdorf
 Links de alguns mini-projetos em desenvolvimento web:
 
-https://matheusbiesdorf.github.io/lista-de-compras/
-https://matheusbiesdorf.github.io/fokus/
-https://matheusbiesdorf.github.io/fokus-v2/
-https://matheusbiesdorf.github.io/alura-books/
-https://matheusbiesdorf.github.io/numero-secreto/
+- [Lista de Compras](https://matheusbiesdorf.github.io/lista-de-compras/)
+- [Fokus](https://matheusbiesdorf.github.io/fokus/)
+- [Fokus v2](https://matheusbiesdorf.github.io/fokus-v2/)
+- [Alura Books](https://matheusbiesdorf.github.io/alura-books/)
+- [Número Secreto](https://matheusbiesdorf.github.io/numero-secreto/)
 
-https://matheusbiesdorf.github.io/aluramidi/
+- [Alura MIDI](https://matheusbiesdorf.github.io/aluramidi/)
 
-https://matheusbiesdorf.github.io/meteora/
-https://matheusbiesdorf.github.io/serenatto/
+- [Meteora](https://matheusbiesdorf.github.io/meteora/)
+- [Serenatto](https://matheusbiesdorf.github.io/serenatto/)
 
-https://matheusbiesdorf.github.io/alura-play/
-https://matheusbiesdorf.github.io/vidflow/
-
+- [Alura Play](https://matheusbiesdorf.github.io/alura-play/)
+- [VidFlow](https://matheusbiesdorf.github.io/vidflow/)
