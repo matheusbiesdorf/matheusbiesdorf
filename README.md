@@ -8,6 +8,7 @@ Links de alguns mini-projetos em desenvolvimento web:
 - [Número Secreto](https://matheusbiesdorf.github.io/numero-secreto/)
 
 - [Alura MIDI](https://matheusbiesdorf.github.io/aluramidi/)
+- [CodeConnect](https://matheusbiesdorf.github.io/CodeConnect/)
 
 - [Meteora](https://matheusbiesdorf.github.io/meteora/)
 - [Serenatto](https://matheusbiesdorf.github.io/serenatto/)
